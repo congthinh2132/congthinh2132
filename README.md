@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Thinh!  
 
-<!--
-**congthinh2132/congthinh2132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me  
+- 🔍 Aspiring [Data Analyst/Data Scientist] with a passion for uncovering insights and building data-driven solutions.  
+- 💻 Proficient in Python, SQL, Power BI, and Machine Learning frameworks like TensorFlow. 
+- 📊 Skilled in data visualization, database management, and statistical analysis.  
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills  
+- **Programming Languages:** Python, C++, SQL  
+- **Tools & Technologies:** Power BI, Jupyter Notebook, SQL Server, PostgreSQL  
+- **Libraries & Frameworks:** NumPy, pandas, matplotlib, scikit-learn, TensorFlow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Education  
+- Bachelor in Computer Science – University of Information Technology
+
+### 📫 Connect with Me  
+- 💼 [My Linkedin](https://www.linkedin.com/in/thinh-luong-ly-cong-547429291/)
+- 📧 [My Email](congthinh2132@gmail.com)
