@@ -6,12 +6,12 @@
 - 📊 Skilled in data visualization, database management, and statistical analysis.  
 
 ### 🛠️ Technical Skills  
-- **Programming Languages:** Python, C++, SQL  
-- **Tools & Technologies:** Power BI, Jupyter Notebook, SQL Server, PostgreSQL  
-- **Libraries & Frameworks:** NumPy, pandas, matplotlib, scikit-learn, TensorFlow.
+- **Programming Languages:** Python, C++, SQL.
+- **Tools & Technologies:** Visual Studio Code, Power BI, Jupyter Notebook, SQL Server, PostgreSQL.
+- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow.
 
 ### 📚 Education  
-- Bachelor in Computer Science – University of Information Technology
+- Bachelor in Computer Science – University of Information Technology(UIT)
 
 ### 📫 Connect with Me  
 - 💼 [My Linkedin](https://www.linkedin.com/in/thinh-luong-ly-cong-547429291/)
