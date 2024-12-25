@@ -7,7 +7,7 @@
 
 ### 🛠️ Technical Skills  
 - **Programming Languages:** Python, C++, SQL.
-- **Tools & Technologies:** Visual Studio Code, Power BI, Jupyter Notebook, SQL Server, PostgreSQL.
+- **Tools & Technologies:** Visual Studio Code, Power BI, Jupyter Notebook, Excel, SQL Server, PostgreSQL.
 - **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow.
 
 ### 📚 Education  
