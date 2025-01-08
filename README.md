@@ -6,9 +6,11 @@
 - 📊 Skilled in data visualization, database management, and statistical analysis.  
 
 ### 🛠️ Technical Skills  
-- **Programming Languages:** Python, C++, SQL.
-- **Tools & Technologies:** Visual Studio Code, Power BI, Jupyter Notebook, Excel, SQL Server, PostgreSQL.
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow.
+- SQL: SQL Server, PostgreSQL, Google BigQuery
+- Power BI: DAX, Power Query, Data Modeling
+- Excel: Power Query, Power Pivot, Conditional Formatting
+- Python: Pandas, NumPy, MatPlotLib, Seaborn
+- Machine Learning: Scikit-learn, Tensorflow
 
 ### 📚 Education  
 - Bachelor in Computer Science – University of Information Technology(UIT)
